@@ -1,0 +1,8 @@
+xm.exe 是守护程序，守护进程snmpserver2.0.exe
+snmpserver2.0.exe是主进程程序。
+
+使用方法，
+安装服务：右键管理员运行 install.cmd 
+启动服务：net start zcser 
+关闭服务：net stop zcser 
+卸载服务：右键管理员运行 uninstall.cmd 
